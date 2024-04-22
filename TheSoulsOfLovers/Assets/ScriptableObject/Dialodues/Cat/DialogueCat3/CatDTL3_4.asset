@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e78cf09ea49aefa4388c82ce8bb30b75, type: 3}
+  m_Name: CatDTL3_4
+  m_EditorClassIdentifier: 
+  m_DialogueLine: {fileID: 11400000, guid: ac1f1b4d2b08248449903dbcf81e6b50, type: 2}
+  m_NextType: {fileID: 11400000, guid: 389791a91022f454b8f1d44b43670253, type: 2}

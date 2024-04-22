@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46eebc952c204134886a2d8df1aa94ce, type: 3}
+  m_Name: PickedAmuletDLine 2
+  m_EditorClassIdentifier: 
+  m_Speaker: {fileID: 11400000, guid: ca8ab709fc761454f8f6932247271e19, type: 2}
+  m_Text: "\u0421\u043B\u043E\u0432\u043D\u043E \u044D\u043D\u0435\u0440\u0433\u0438\u044F
+    \u0438\u0437\u043C\u0435\u043D\u0438\u043B\u0430 \u0432\u0430\u0448 \u0432\u043D\u0443\u0442\u0440\u0435\u043D\u043D\u0438\u0439
+    \u043C\u0438\u0440...."
